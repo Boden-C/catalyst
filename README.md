@@ -1,4 +1,5 @@
-# catalyst
+# Shell Lib
+Make better-looking CML tools
 
 ## License
 ### STRONGER AGPL 3.0
