@@ -3,86 +3,252 @@ Make better-looking CML tools
 
 ## Helpful Symbols
 
-✅ checkmark
+### Arrows
 
-Success, completed, or enabled.
+→
 
-✅ Task completed
+U+2192
 
-❌ cross mark
+Rightwards Arrow
 
-Failure, error, or disabled.
+Indicating flow, direction, or "points to" (e.g., feature → main).
 
-❌ Build failed
+←
 
-⚠️ warning
+U+2190
 
-Warning, caution, or something to review.
+Leftwards Arrow
 
-⚠️ Uncommitted changes
+Reverse flow, "comes from".
 
-ℹ️ info
+⬆
 
-Information or helpful tip.
+U+2B06
 
-ℹ️ Press Ctrl+C to exit
+Upwards Black Arrow
 
-❓ question
+For "pushing" changes or moving up a directory.
 
-Prompting for input or unknown status.
+⬇
 
-❓ Proceed? (y/N)
+U+2B07
 
-💡 lightbulb
+Downwards Black Arrow
 
-Idea, hint, or suggestion.
+For "pulling" changes or moving down a directory.
 
-💡 Consider using a linter
+➢
 
-🔗 link
+U+27A2
 
-Link or connection.
+Three-D Top-Lighted Rightwards Arrowhead
 
-🔗 See documentation
+More prominent right arrow, for active branches or selections.
 
-🔒 lock
+➤
 
-Locked, secure, or private.
+U+27A4
 
-🔒 Access denied
+Black Rightwards Pointing Triangle
 
-🔓 unlock
+Similar to ➢, good for indicating current state or selection.
 
-Unlocked, insecure, or public.
+### Lines & Connectors
 
-🔓 Public access enabled
+─
 
-⏳ hourglass
+U+2500
 
-Pending, waiting, or in progress.
+Box Drawings Light Horizontal
 
-⏳ Loading...
+Connecting elements, creating dividers.
 
-⚙️ gear
+│
 
-Settings, configuration, or processing.
+U+2502
 
-⚙️ Processing data
+Box Drawings Light Vertical
 
-✨ sparkles
+Vertical lines for tree structures (e.g., Git log, directory trees).
 
-New, improved, or fancy.
+┌
 
-✨ New feature added
+U+250C
 
-🔥 fire
+Box Drawings Light Down and Right
 
-Critical, hot, or destructive action.
+Top-left corner for boxes or tree branches.
 
-🔥 Deleting production data
+└
 
-🌐 globe
+U+2514
 
-Network, internet, or global.
+Box Drawings Light Up and Right
 
-🌐 Checking connectivity
+Bottom-left corner for boxes or tree branches.
+
+├
+
+U+251C
+
+Box Drawings Light Vertical and Right
+
+T-junction for tree branches.
+
+•
+
+U+2022
+
+Bullet
+
+Simple list item, marker.
+
+○
+
+U+25CB
+
+White Circle
+
+Unchecked, unselected, or pending status.
+
+●
+
+U+25CF
+
+Black Circle
+
+Checked, selected, or active status.
+
+### Indicators & Markers
+
+✓
+
+U+2713
+
+Check Mark
+
+Success, completed, confirmed.
+
+✗
+
+U+2717
+
+Ballot X
+
+Failure, error, cancelled.
+
+ℹ
+
+U+2139
+
+Information Source
+
+General information, tips.
+
+⚙
+
+U+2699
+
+Gear
+
+Settings, configuration, processing.
+
+⚠
+
+U+26A0
+
+Warning Sign
+
+Caution, potential issue.
+
+⌘
+
+U+2318
+
+Place of Interest Sign
+
+Command symbol (often used on macOS, but general "command" meaning).
+
+›
+
+U+203A
+
+Single Right-Pointing Angle Quotation Mark
+
+Prompt indicator, "next step".
+
+»
+
+U+00BB
+
+Right-Pointing Double Angle Quotation Mark
+
+More prominent prompt indicator, "continue".
+
+### Branch/Tree Specific
+
+⎇
+
+U+2387
+
+Alchemical Symbol for Quintessence
+
+Could represent a "fork" or "branching point" in a unique way.
+
+### Other Useful Symbols
+
+───
+
+U+2500 (x3)
+
+Horizontal Rule (multiple dashes)
+
+Creating visual separators.
+
+⚡
+
+U+26A1
+
+High Voltage Sign
+
+Speed, active, live.
+
+✨
+
+U+2728
+
+Sparkles
+
+New feature, highlight, special.
+
+🔗
+
+U+1F517
+
+Link Symbol
+
+Linked, connected.
+
+🔒
+
+U+1F512
+
+Lock
+
+Locked, secure, protected.
+
+💡
+
+U+1F4A1
+
+Light Bulb
+
+Idea, suggestion, tip.
+
+🗑
+
+U+1F5D1
+
+Wastebasket
+
+Delete, remove.
